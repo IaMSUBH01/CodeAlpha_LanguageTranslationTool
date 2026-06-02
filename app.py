@@ -997,7 +997,7 @@ def render_footer() -> None:
             Python · Streamlit · deep-translator · gTTS
             <br><br>
             <span style='font-size:0.75rem;'>
-                © 2025 Subhajit Roy · CodeAlpha Internship · MIT License
+                © 2026 Subhajit Roy · CodeAlpha Internship · MIT License
             </span>
         </div>
         """,

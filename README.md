@@ -221,7 +221,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 **Subhajit Roy**  
 Artificial Intelligence Intern  
-CodeAlpha Internship Program — 2025  
+CodeAlpha Internship Program — 2026  
 GitHub: [@IaMSUBH01](https://github.com/IaMSUBH01)
 
 ---
