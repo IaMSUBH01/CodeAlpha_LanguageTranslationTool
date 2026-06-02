@@ -88,7 +88,7 @@ CodeAlpha_LanguageTranslationTool/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/subhajitroy/CodeAlpha_LanguageTranslationTool.git
+git clone https://github.com/IaMSUBH01/CodeAlpha_LanguageTranslationTool.git
 cd CodeAlpha_LanguageTranslationTool
 ```
 
@@ -222,7 +222,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 **Subhajit Roy**  
 Artificial Intelligence Intern  
 CodeAlpha Internship Program — 2025  
-GitHub: [@subhajitroy](https://github.com/subhajitroy)
+GitHub: [@IaMSUBH01](https://github.com/IaMSUBH01)
 
 ---
 
