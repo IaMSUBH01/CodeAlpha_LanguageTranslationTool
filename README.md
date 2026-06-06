@@ -146,11 +146,14 @@ To stop the server, press `Ctrl + C` in the terminal.
 
 ## 📸 Screenshots
 
-> Screenshots will be added after the first run of the application.
+### 🖥️ Main Interface
+![Main Interface](screenshots/main_ui.png)
 
-| Main Interface | Translation Demo | TTS Demo |
-|---|---|---|
-| *(screenshots/main_ui.png)* | *(screenshots/translation_demo.png)* | *(screenshots/tts_demo.png)* |
+### 🌍 Translation Demo (English → Hindi)
+![Translation Demo](screenshots/translation_demo.png)
+
+### 🔊 Text-to-Speech Demo
+![TTS Demo](screenshots/tts_demo.png)
 
 ---
 
